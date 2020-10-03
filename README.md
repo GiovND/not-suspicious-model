@@ -1,2 +1,2 @@
 # Not Suspicious Traffic
-mathematical model trying to generate not suspicious traffic
+model trying to generate not suspicious traffic
